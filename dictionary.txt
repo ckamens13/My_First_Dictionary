@@ -1,0 +1,2775 @@
+able,a ,  capable
+midnight,n ,  12 o'clock
+yard,n ,  3 feet
+volume,n ,  3-dimensional space
+boat,n ,  a small vessel for travel on water
+demand,n ,  ability and desire to purchase goods and services
+intelligence,n ,  ability to comprehend
+literacy,n ,  ability to read and write
+voice,n ,  ability to speak
+free,a ,  able to act at will
+growth,n ,  abnormal proliferation of tissue
+residence,n ,  abode
+apathy,n ,  absence of emotion or enthusiasm
+majority,n ,  absolute majority
+fast,v ,  abstain from food
+degree,n ,  academic degree
+gas pedal,n ,  accelerator
+emphasis,n ,  accent
+achievement,n ,  accomplishment
+agreement,n ,  accord
+accumulation,n ,  accretion
+experience,n ,  accumulation of knowledge or skill
+charge,n ,  accusation
+charge,v ,  accuse
+black,a ,  achromatic
+white,a ,  achromatic
+admit,v ,  acknowledge
+concede,v ,  acknowledge defeat
+admission,n ,  acknowledgment
+recognition,n ,  acknowledgment
+thanks,n ,  acknowledgment of appreciation
+receipt,n ,  acknowledgment of payment
+friend,n ,  acquaintance
+get,v ,  acquire
+AIDS,n ,  acquired immune deficiency syndrome
+delay,v ,  act later than planned
+stimulation,n ,  act of arousing an organism to action
+exchange,n ,  act of changing one thing for another
+deal,n ,  act of distributing playing cards
+favour,n ,  act of gracious kindness
+performance,n ,  act of presenting a play or a piece
+return,n ,  act of returning to a prior location
+production,n ,  act or process of producing something
+jest,v ,  act or speak playfully
+solo,n ,  activity performed alone
+cast,n ,  actors
+version,n ,  adaptation
+dependence,n ,  addiction
+speech,n ,  address
+formal,a ,  adhering to traditional standards
+orthodox,a ,  adhering to what is commonly accepted
+glue,n ,  adhesive
+plaster,n ,  adhesive plaster
+tape,n ,  adhesive tape
+poison,v ,  administer poison to
+council,n ,  administrative body
+division,n ,  administrative unit
+executive,n ,  administrator
+confession,n ,  admission of misdeeds
+teenager,n ,  adolescent
+woman,n ,  adult female
+notice,n ,  advance notification
+lead,n ,  advantage held by a competitor
+hardship,n ,  adversity
+revolutionary,a ,  advocating or engaged in revolution
+association,n ,  affiliation
+open,a ,  affording free passage
+tissue,n ,  aggregate of cells
+hostility,n ,  aggression
+fan,v ,  agitate the air
+consensus,n ,  agreement
+peasant,n ,  agricultural laborer
+support,n ,  aiding the cause or policy or interests of
+cabin,n ,  aircraft cabin
+pilot,n ,  airplane pilot
+wing,n ,  airplane wing
+alarm,n ,  alarm clock
+egg white,n ,  albumen
+beer,n ,  alcoholic beverage
+consciousness,n ,  alert cognitive state
+extraterrestrial,n ,  alien
+comprehensive,a ,  all-including
+bond,n ,  alliance
+distance,n ,  aloofness
+directory,n ,  alphabetical list of names and addresses
+index,n ,  alphabetical listing
+height,n ,  altitude
+ambition,n ,  ambitiousness
+shell,n ,  ammunition
+pardon,n ,  amnesty
+quantity,n ,  amount
+figure,n ,  amount of money expressed numerically
+supply,n ,  amount of something available for use
+entertainment,n ,  amusement
+game,n ,  amusement or pastime
+ancestor,n ,  ancestor
+fox,n ,  animal
+horse,n ,  animal
+pet,n ,  animal
+worm,n ,  animal
+ankle,n ,  ankle joint
+birthday,n ,  anniversary of the day someone is born
+note,n ,  annotation
+notice,n ,  announcement
+program,n ,  announcement of a theatrical event
+expect,v ,  anticipate
+expectation,n ,  anticipation
+anxiety,n ,  anxiousness
+share,n ,  any of the equal portions into which the capital stock of a corporation is divided
+factor,n ,  anything that contributes causally to a result
+flat,n ,  apartment
+seem,v ,  appear
+debut,v ,  appear in public for the first time
+texture,n ,  appearance of a surface or fabric
+rub,v ,  apply friction
+general,a ,  applying to most members of a category
+assessment,n ,  appraisal
+estimate,n ,  appraisal of value
+permission,n ,  approval to do something
+spider,n ,  arachnid
+random,a ,  arbitrary
+wall,n ,  architectural partition
+archive,n ,  archives
+arch,n ,  archway
+room,n ,  area within a building
+desert,n ,  arid land
+division,n ,  arithmetic operation
+weapon,n ,  arm
+division,n ,  army unit
+squad,n ,  army unit
+garlic,n ,  aromatic bulb used as seasoning
+tease,v ,  arouse hope or desire without satisfying them
+move,v ,  arouse sympathy or compassion
+moving,a ,  arousing deep emotion
+pack,v ,  arrange in a container
+row,n ,  arrangement of objects or people side by side in a line
+timetable,n ,  arrival and departure schedule
+bow,n ,  arrow launcher
+gallery,n ,  art gallery
+reservoir,n ,  artificial lake
+craftsman,n ,  artisan
+painter,n ,  artist
+beg,v ,  ask for money or goods
+battery,n ,  assault
+claim,n ,  assertion
+selection,n ,  assortment of things from which to choose
+star,n ,  asterisk
+far,a ,  at a long distance
+fast,a ,  at a rapid tempo
+runner,n ,  athlete
+sport,n ,  athletics
+front,n ,  atmospheric phenomenon at the boundary between two air masses
+nuclear,a ,  atomic
+strike,n ,  attack
+costume,n ,  attire for special occasions
+culture,n ,  attitudes and behavior
+lawyer,n ,  attorney
+cute,a ,  attractive
+attraction,n ,  attractiveness
+auction,n ,  auction sale
+sound,n ,  auditory event
+writer,n ,  author
+command,n ,  authoritative instruction
+regulation,n ,  authoritative rule
+robot,n ,  automaton
+transmission,n ,  automobile transmission
+motorist,n ,  automobilist
+fall,n ,  autumn
+common,a ,  average or ordinary or usual
+conscious,a ,  aware
+axis,n ,  axis of rotation
+nursery,n ,  baby's room
+heel,n ,  back of the foot
+bond,n ,  bail
+sphere,n ,  ball
+deposit,n ,  bank deposit
+failure,n ,  bankruptcy
+feast,n ,  banquet
+drum,n ,  barrel
+fence,n ,  barrier
+baseball,n ,  baseball game
+wrong,a ,  based on error
+rational,a ,  based on reasoning
+democratic,a ,  based upon the principles of democracy
+cellar,n ,  basement
+essential,a ,  basic and fundamental
+infrastructure,n ,  basic features of a system
+introduction,n ,  basic instructional text
+cell,n ,  basic structural and functional unit of all organisms
+principle,n ,  basic truth or law or assumption
+foundation,n ,  basis
+represent,v ,  be a delegate or spokesperson
+move,v ,  be active
+oppose,v ,  be against
+suit,v ,  be agreeable or acceptable
+know,v ,  be aware of the truth of something
+ride,v ,  be carried or travel in or on a vehicle
+depend,v ,  be contingent upon
+dare,v ,  be courageous enough to try or do something
+differ,v ,  be different
+match,v ,  be equal or harmonize
+know,v ,  be familiar or acquainted with a person or an object
+like,v ,  be fond of
+lead,v ,  be in charge
+dominate,v ,  be in control
+love,v ,  be in love with
+owe,v ,  be obliged to pay
+mind,v ,  be offended or bothered by
+run,v ,  be operating or functioning
+belong,v ,  be owned by
+beat,v ,  be superior to
+host,v ,  be the host
+win,v ,  be victorious
+lack,v ,  be without
+worry,v ,  be worried
+bill,n ,  beak
+kidney,n ,  bean-shaped excretory organ
+carry,v ,  bear
+testify,v ,  bear witness
+grace,n ,  beauty of movement
+increase,v ,  become bigger or greater
+conceive,v ,  become pregnant
+sheet,n ,  bed sheet
+friendly,a ,  befitting a friend
+low,a ,  being at small elevation
+present,a ,  being here
+critical,a ,  being in a state of crisis or emergency
+opposed,a ,  being in opposition
+hot,a ,  being of high temperature
+outer,a ,  being on the outside
+salvation,n ,  being saved from harm
+swallow,v ,  believe or accept without questioning
+common,a ,  belonging to a community
+noble,a ,  belonging to hereditary aristocracy
+native,a ,  belonging to one by birth
+left,a ,  belonging to the political or intellectual left
+flex,v ,  bend
+bow,v ,  bend the head or the upper body in respect or greeting
+flexible,a ,  bendable
+advantage,n ,  benefit
+hook,n ,  bent implement
+mourning,n ,  bereavement
+engagement,n ,  betrothal
+coffee,n ,  beverage
+tea,n ,  beverage
+wine,n ,  beverage made from fermented grapes
+large,a ,  big
+charge,n ,  billing
+contract,n ,  binding agreement between two or more persons
+wing,n ,  biological organ for flying
+duck,n ,  bird
+eagle,n ,  bird
+turkey,n ,  bird domesticated for food
+delivery,n ,  birth
+pill,n ,  birth control pill
+bitter,a ,  bitter-tasting
+space,n ,  blank
+cover,n ,  blanket
+blast,v ,  blare
+approval,n ,  blessing
+obstacle,n ,  block
+brick,n ,  block of baked clay
+vein,n ,  blood vessel
+mosquito,n ,  blood-sucking insect
+depressed,a ,  blue
+heart,n ,  bodily organ
+muscle,n ,  bodily tissue
+scale,n ,  body covering of many animals
+mass,n ,  body of matter
+constituency,n ,  body of voters
+lake,n ,  body of water
+appendix,n ,  body part
+bone,n ,  body part
+head,n ,  body part
+joint,n ,  body part
+lap,n ,  body part
+limb,n ,  body part
+nail,n ,  body part
+organ,n ,  body part
+tongue,n ,  body part
+flesh,n ,  body tissue
+guard,n ,  bodyguard
+steam,n ,  boiling water
+bomb,v ,  bombard
+rib,n ,  bone
+tooth,n ,  bonelike structure in the jaws
+dividend,n ,  bonus
+horn,n ,  bony outgrowths on the head
+album,n ,  book of blank pages
+notebook,n ,  book with blank pages
+cap,n ,  bottle top
+base,n ,  bottom side of a geometric figure
+avenue,n ,  boulevard
+end,n ,  boundary
+cow,n ,  bovine
+ring,n ,  boxing ring
+executive,n ,  branch of government
+electronics,n ,  branch of physics
+toast,n ,  bread
+width,n ,  breadth
+shatter,v ,  break
+smash,v ,  break apart
+smash,v ,  break into pieces
+cereal,n ,  breakfast food
+hiccup,v ,  breathe spasmodically
+corruption,n ,  bribery
+workshop,n ,  brief intensive course
+bulletin,n ,  brief report
+call,n ,  brief social visit
+summary,n ,  brief statement
+glimpse,n ,  brief view
+brilliance,n ,  brilliance
+prosecute,v ,  bring a criminal action against
+bring,v ,  bring along
+introduce,v ,  bring in
+import,v ,  bring in from abroad
+create,v ,  bring into existence
+organize,v ,  bring order and organization to
+update,v ,  bring up to date
+glass,n ,  brittle transparent solid
+spectrum,n ,  broad range of related values
+program,n ,  broadcast
+reception,n ,  broadcast reception
+fragment,n ,  broken-off piece
+eyebrow,n ,  brow
+review,n ,  brushup
+champagne,n ,  bubbly wine
+garage,n ,  building
+center,n ,  building dedicated to a particular activity
+architecture,n ,  building design
+displace,v ,  bump
+pack,n ,  bundle carried on the back
+nerve,n ,  bundle of nerve fibers
+rabbit,n ,  burrowing animal
+operation,n ,  business especially one run on a large scale
+counter,n ,  business table
+agency,n ,  business that serves other businesses
+traffic,n ,  buying and selling
+multiply,v ,  calculate
+month,n ,  calendar month
+week,n ,  calendar week
+request,v ,  call for
+cancel,v ,  call off
+run,v ,  campaign for office
+wolf,n ,  canine mammal
+sail,n ,  canvas
+content,n ,  capacity
+memory,n ,  capacity to remember
+legend,n ,  caption
+prisoner,n ,  captive
+horn,n ,  car horn
+garage,n ,  car repair shop
+consideration,n ,  careful thought
+shark,n ,  carnivorous fish
+waterfall,n ,  cascade
+precedent,n ,  case in point
+advance,n ,  cash advance
+register,n ,  cash register
+barrel,n ,  cask
+coffin,n ,  casket
+vote,v ,  cast a vote in an election
+catalogue,n ,  catalog
+capture,v ,  catch
+bracket,n ,  category
+white,a ,  caucasian
+cause,n ,  causal agent
+nature,n ,  causal agent creating and controlling the universe
+offend,v ,  cause to feel resentment
+pour,v ,  cause to flow
+flush,v ,  cause to flow or flood
+crash,v ,  cease operating abruptly
+planet,n ,  celestial body
+star,n ,  celestial body
+orbit,n ,  celestial orbit
+cell phone,n ,  cellular telephone
+penny,n ,  cent
+core,n ,  center of an object
+wheat,n ,  cereal
+hemisphere,n ,  cerebral hemisphere
+ceremony,n ,  ceremonial occasion
+parade,n ,  ceremonial procession
+funeral,n ,  ceremony
+license,v ,  certify
+necklace,n ,  chain
+throne,n ,  chair of a monarch
+appeal,v ,  challenge a decision
+title,n ,  championship
+reform,n ,  change for the better
+move,v ,  change position
+convert,v ,  change religious beliefs
+freeze,v ,  change to ice
+feature,n ,  characteristic
+provincial,a ,  characteristic of the provinces
+ring,n ,  characteristic sound
+hostile,a ,  characterized by enmity or ill will
+systematic,a ,  characterized by order and planning
+poor,a ,  characterized by poverty
+loud,a ,  characterized by sound of great volume
+plot,n ,  chart
+compound,n ,  chemical compound
+element,n ,  chemical element
+reaction,n ,  chemical reaction
+chemistry,n ,  chemical science
+check,n ,  chess move
+king,n ,  chess piece
+president,n ,  chief executive of a republic
+adoption,n ,  child adoption
+play,n ,  child's play
+chop,v ,  chop up
+helicopter,n ,  chopper
+church,n ,  church building
+film,n ,  cinema
+round,a ,  circular
+condition,n ,  circumstance
+quote,v ,  cite
+orange,n ,  citrus fruit
+block,n ,  city block
+mayor,n ,  city manager
+title,n ,  claim
+tribe,n ,  clan
+applaud,v ,  clap one's hands
+confrontation,n ,  clash
+pottery,n ,  clayware
+soap,n ,  cleansing agent
+cut,v ,  cleave
+fist,n ,  clenched fist
+bishop,n ,  clergyman
+clerk,n ,  clerical worker
+tick,v ,  click
+time,n ,  clock time
+close,a ,  close in relevance or relationship
+contact,n ,  close interaction
+cupboard,n ,  closet
+dress,v ,  clothe
+overall,n ,  clothing
+belt,n ,  clothing accessory
+cooperative,a ,  co-operative
+train,v ,  coach
+code,n ,  coding system for brief or secret messages
+contemporary,n ,  coeval
+proof,n ,  cogent evidence
+belief,n ,  cognitive content held as true
+judgment,n ,  cognitive process
+laser,n ,  coherent light
+snub,n ,  cold shoulder
+fish,n ,  cold-blooded aquatic vertebrates
+tent,n ,  collapsible shelter
+raise,v ,  collect funds
+wardrobe,n ,  collection of clothing
+settlement,n ,  colony
+rainbow,n ,  colored light in the sky
+mosaic,n ,  colored stone or glass art
+chord,n ,  combination of notes
+land,v ,  come down on the ground
+confront,v ,  come face to face with
+appear,v ,  come into view
+comfort,n ,  comfortableness
+comfortable,a ,  comfy
+recommend,v ,  commend
+transaction,n ,  commercial dealing
+market,v ,  commercialize
+committee,n ,  commission
+board,n ,  committee having supervisory powers
+cold,n ,  common cold
+infect,v ,  communicate a disease
+write,v ,  communicate or express by writing
+network,n ,  communication system with a group of broadcasting stations
+compact,n ,  compact car
+pity,n ,  compassion
+command,v ,  compel
+remunerate,v ,  compensate
+competence,n ,  competency
+plaintiff,n ,  complainant
+finish,v ,  complete
+complication,n ,  complex situation
+complex,a ,  complicated
+follow,v ,  comply
+module,n ,  component
+understand,v ,  comprehend
+code,n ,  computer code
+hardware,n ,  computer hardware
+menu,n ,  computer menu
+mouse,n ,  computer mouse
+program,n ,  computer program
+computing,n ,  computer science
+software,n ,  computer software
+computer,n ,  computing machine
+brother,n ,  comrade
+hide,v ,  conceal
+design,v ,  conceive
+notion,n ,  concept
+practical,a ,  concerned with actual use or practice
+applied,a ,  concerned with concrete problems or data
+sacred,a ,  concerned with religion or religious purposes
+personal,a ,  concerning a particular person
+domestic,a ,  concerning the internal affairs of a nation
+private,a ,  concerning things personal
+definition,n ,  concise explanation
+terms,n ,  condition
+freedom,n ,  condition of being free
+danger,n ,  condition of being susceptible to harm
+improvement,n ,  condition superior to an earlier one
+behavior,n ,  conduct
+experiment,v ,  conduct a test or investigation
+constellation,n ,  configuration of stars
+fit,v ,  conform to shape or size
+standard,a ,  conforming to a standard of measurement
+normal,a ,  conforming with a norm or standard
+representative,n ,  congressman
+related,a ,  connected by kinship
+related,a ,  connected logically or causally
+node,n ,  connecting point
+sanctuary,n ,  consecrated place
+product,n ,  consequence of someone's efforts
+doubt,v ,  consider unlikely
+courtesy,n ,  considerate act
+TRUE,a ,  consistent with fact or reality
+structure,n ,  construction
+use,n ,  consumption
+bin,n ,  container
+box,n ,  container
+dish,n ,  container
+vessel,n ,  container
+cassette,n ,  container holding magnetic tape
+full,a ,  containing as much as is possible
+pollution,n ,  contamination
+content,a ,  contented
+satisfaction,n ,  contentment
+competition,n ,  contest
+race,n ,  contest of speed
+game,n ,  contest with rules to determine a winner
+circumstance,n ,  context
+Europe,n ,  continent
+pupil,n ,  contractile aperture in the iris of the eye
+contradiction,n ,  contradiction in terms
+wrong,a ,  contrary to conscience or morality or law
+command,v ,  control
+joystick,n ,  control stick
+vehicle,n ,  conveyance
+sentence,n ,  conviction
+biscuit,n ,  cookie
+herb,n ,  cooking herb
+pan,n ,  cooking pan
+pot,n ,  cooking vessel
+cage,n ,  coop
+partnership,n ,  cooperation among people
+policeman,n ,  cop
+right,a ,  correct
+makeup,n ,  cosmetics
+sofa,n ,  couch
+mole,n ,  counterspy
+poll,n ,  counting of votes
+voucher,n ,  coupon
+seminar,n ,  course
+credit,n ,  course credit
+course,n ,  course of action
+warrant,n ,  court warrant
+polite,a ,  courteous
+court,n ,  courtyard
+bloody,a ,  covered with blood
+shell,n ,  covering of a mollusc
+appetite,n ,  craving
+creep,v ,  crawl
+bond,v ,  create social or emotional ties
+creation,n ,  creative activity
+artist,n ,  creative person
+literature,n ,  creative writing
+sailor,n ,  crewman
+prosecution,n ,  criminal prosecution
+record,n ,  criminal record
+gravel,n ,  crushed rock
+block,n ,  cube
+cell,n ,  cubicle
+ethnic,a ,  cultural
+mug,n ,  cup
+cabinet,n ,  cupboard-like repository
+cup,n ,  cupful
+heal,v ,  cure
+money,n ,  currency
+damn,v ,  curse
+curve,n ,  curved shape
+pillow,n ,  cushion
+convention,n ,  custom
+crop,v ,  cut short
+fork,n ,  cutlery
+spoon,n ,  cutlery
+roll,n ,  cylindrical form
+sunrise,n ,  daily morning event
+dairy,n ,  dairy farm
+total,v ,  damage beyond the point of repair
+ballet,n ,  dance
+dark,n ,  darkness
+file,n ,  data file
+anniversary,n ,  day of remembrance
+date,n ,  day of the month
+holiday,n ,  day on which work is suspended
+body,n ,  dead body
+franchise,n ,  dealership
+expose,v ,  debunk
+betray,v ,  deceive
+resolution,n ,  decision to do something
+classify,v ,  declare unavailable
+swear,v ,  declare under oath
+refuse,v ,  decline to do
+recession,n ,  declining economy
+profound,a ,  deep
+carrot,n ,  deep orange edible root
+coma,n ,  deep unconsciousness
+default,n ,  default option
+desert,v ,  defect
+lemon,n ,  defective artifact
+credit,n ,  deferred payment
+payment,n ,  defrayal
+temperature,n ,  degree of hotness or coldness
+quality,n ,  degree or grade of excellence
+extension,n ,  delay of deadline
+censorship,n ,  deletion of material in art works
+debate,v ,  deliberate
+lace,n ,  delicate fabric
+tasty,a ,  delicious
+pleasure,n ,  delight
+pleasant,a ,  delightful
+preach,v ,  deliver a sermon
+claim,n ,  demand
+need,n ,  demand
+charge,v ,  demand payment
+challenge,n ,  demanding or stimulating situation
+demonstration,n ,  demo
+thick,a ,  dense in consistency
+density,n ,  denseness
+reliable,a ,  dependable
+describe,v ,  depict
+subject,n ,  depicted object
+bank,n ,  depository financial institution
+rob,v ,  deprive somebody of something
+fall,v ,  descend in free fall
+lineage,n ,  descent
+integration,n ,  desegregation
+motif,n ,  design
+functional,a ,  designed for or capable of a particular function
+architect,n ,  designer of buildings
+want,v ,  desire
+despair,n ,  desperate feeling
+sweet,n ,  dessert
+break,v ,  destroy
+demolish,v ,  destroy
+confine,v ,  detain
+discourage,v ,  deter
+weigh,v ,  determine the weight of
+decisive,a ,  determining
+modernize,v ,  develop
+instrument,n ,  device
+support,n ,  device that bears the weight of another thing
+filter,n ,  device that removes something small
+dark,a ,  devoid of light
+plot,v ,  diagram
+journal,n ,  diary
+drown,v ,  die in water
+diet,n ,  dieting
+difficulty,n ,  difficultness
+proportion,n ,  dimension
+first-hand,a ,  direct
+management,n ,  direction
+rule,n ,  directions defining a game or sport
+manager,n ,  director
+denial,n ,  disaffirmation
+unpleasant,a ,  disagreeable
+fire,v ,  discharge a weapon
+history,n ,  discipline that interprets past events
+negative,a ,  disconfirming
+disco,n ,  discotheque
+find,v ,  discover
+incongruous,a ,  discrepant
+digital,a ,  discrete
+consultation,n ,  discussion to consider a point
+spirit,n ,  disembodied spirit
+mask,n ,  disguise
+pie,n ,  dish
+plate,n ,  dish
+menu,n ,  dishes planned for a meal
+chart,n ,  display of information
+neglect,n ,  disregard
+joint,n ,  disreputable place of entertainment
+undress,v ,  disrobe
+interrupt,v ,  disrupt
+thesis,n ,  dissertation
+deter,v ,  dissuade
+mile,n ,  distance
+aloof,a ,  distant
+trait,n ,  distinguishing feature of your personal nature
+characteristic,n ,  distinguishing quality
+spread,v ,  distribute over a surface
+quarter,n ,  district of a city
+trench,n ,  ditch
+butterfly,n ,  diurnal insect
+even,a ,  divisible by two
+harm,v ,  do harm to
+work,v ,  do work
+charter,n ,  document
+record,n ,  document serving as legal evidence of a transaction
+source,n ,  documentary reference
+pound,n ,  dog pound
+goat,n ,  domestic animal
+dog,n ,  domestic dog
+chicken,n ,  domestic fowl
+control,n ,  dominance
+contribution,n ,  donation
+gate,n ,  door
+point,n ,  dot
+deposit,n ,  down payment
+opera,n ,  drama set to music
+drama,n ,  dramatic event
+curtain,n ,  drape
+pull,v ,  draw
+tap,v ,  draw from
+diagram,n ,  drawing
+dream,n ,  dreaming
+sip,v ,  drink
+glass,n ,  drinking glass
+straw,n ,  drinking straw
+dribble,v ,  drip
+drive,n ,  driveway
+heroin,n ,  drug
+rehearsal,n ,  dry run
+rule,n ,  duration of a monarch's or government's power
+house,n ,  dwelling
+past,a ,  earlier than the present time
+mail,n ,  earth mail
+pole,n ,  Earth's antipodal point
+tender,a ,  easy to cut or chew
+distinct,a ,  easy to perceive
+handy,a ,  easy to use
+restaurant,n ,  eating place
+aid,n ,  economic aid
+economist,n ,  economic expert
+boom,n ,  economic prosperity
+prosperity,n ,  economic prosperity
+economics,n ,  economic science
+economy,n ,  economic system
+bean,n ,  edible bean
+onion,n ,  edible bulb
+corn,n ,  edible corn
+building,n ,  edifice
+style,n ,  editorial directions
+school,n ,  educational institution
+influence,n ,  effect of one thing or person
+practical,a ,  efficient
+shell,n ,  eggshell
+self,n ,  ego
+hip,n ,  either side of the body below the waist and above the thigh
+elbow,n ,  elbow joint
+choose,v ,  elect to do
+voter,n ,  elector
+battery,n ,  electric battery
+charge,n ,  electric charge
+current,n ,  electric current
+shock,n ,  electric shock
+switch,n ,  electric switch
+electron,n ,  elementary particle
+hill,n ,  elevation of the land
+lift,n ,  elevator
+elite,n ,  elite group
+banana,n ,  elongated crescent-shaped yellow fruit
+flag,n ,  emblem
+eagle,n ,  emblem representing power
+utter,v ,  emit
+smell,v ,  emit an odor
+glow,v ,  emit light
+sentiment,n ,  emotion
+spirit,n ,  emotional state
+work,n ,  employment
+authorise,v ,  empower
+space,n ,  empty area
+drain,v ,  empty of liquid
+frame,v ,  enclose in a frame
+settle,v ,  end a legal dispute
+output,n ,  end product
+terminal,a ,  endmost
+survival,n ,  endurance
+charge,v ,  energize a battery
+fuel,n ,  energy
+wrap,v ,  enfold in a tissue
+wrestle,v ,  engage in a wrestling match
+play,v ,  engage in playful activity
+technology,n ,  engineering
+indulge,v ,  enjoy to excess
+expansion,n ,  enlargement
+soldier,n ,  enlisted man or woman
+register,v ,  enroll to vote
+plead,v ,  enter a plea in courts of law
+break in,v ,  enter illegally
+penetrate,v ,  enter into
+attraction,n ,  entertainment offered to the public
+temptation,n ,  enticement
+solid,a ,  entirely of one substance with no holes inside
+admission,n ,  entrance fee
+ticket,n ,  entry or access ticket
+articulate,v ,  enunciate
+atmosphere,n ,  envelope of gases
+era,n ,  epoch
+reaction,n ,  equal and opposite force
+balance,n ,  equality between credit and debit
+parallel,a ,  equidistant and not intersecting
+breakdown,n ,  equipment failure
+just,a ,  equitable
+ambiguous,a ,  equivocal
+ambiguity,n ,  equivocalness
+error,n ,  erroneous belief
+flight,n ,  escape
+leak,v ,  escape through an opening
+date,n ,  escort
+perfume,n ,  essence
+nature,n ,  essential qualities or characteristics
+settle,v ,  establish a residence
+habit,n ,  established custom
+institution,n ,  establishment
+admiration,n ,  esteem
+folk music,n ,  ethnic music
+evening,n ,  eve
+incident,n ,  event
+trouble,n ,  event causing distress or pain
+estate,n ,  everything you own
+contrary,n ,  exact opposition
+screen,v ,  examine methodically
+inspector,n ,  examiner
+mine,n ,  excavation of ores and minerals
+fat,n ,  excess bodily weight
+sell,v ,  exchange for money
+redeem,v ,  exchange for ransom under threat
+correspond,v ,  exchange messages
+correspondence,n ,  exchange of letters
+exclusive,a ,  excluding much or all
+monopoly,n ,  exclusive control
+illustrate,v ,  exemplify
+work out,v ,  exercise
+dominant,a ,  exercising influence or control
+press,v ,  exert pressure or force on
+museum,n ,  exhibition hall
+abstract,a ,  existing only in the mind
+anticipation,n ,  expectancy
+spend,v ,  expend
+experiment,n ,  experimentation
+authority,n ,  expert whose views are taken as definitive
+expertise,n ,  expertness
+account,n ,  explanation
+reason,n ,  explanation of the cause
+explain,v ,  explicate
+remark,n ,  explicit notice
+blast,n ,  explosion
+bomb,n ,  explosive device
+mine,n ,  explosive device
+complain,v ,  express discontent
+explicit,a ,  expressed
+apology,n ,  expression of regret
+delicate,a ,  exquisitely fine and subtle
+society,n ,  extended social group
+surface,n ,  extended two-dimensional outer boundary
+length,n ,  extent of something from beginning to end
+blackmail,n ,  extortion
+galaxy,n ,  extragalactic nebula
+lid,n ,  eyelid
+silk,n ,  fabric
+wool,n ,  fabric
+manufacture,n ,  fabrication
+side,n ,  face
+aspect,n ,  facet
+feature,n ,  facial feature
+beard,n ,  facial hair
+fax,n ,  facsimile
+parameter,n ,  factor
+observation,n ,  facts learned by observing
+attention,n ,  faculty or power of mental concentration
+miss,v ,  fail to attend an event or activity
+overlook,v ,  fail to notice
+miss,v ,  fail to reach or get to
+lose,v ,  fail to win
+absence,n ,  failure to be present
+sunshine,n ,  fair weather
+crash,v ,  fall or come down violently
+illusion,n ,  false mental representation
+distort,v ,  falsify
+acquaintance,n ,  familiar person
+kinship,n ,  family relationship
+crystal,n ,  fancy glassware
+model,n ,  fashion model
+trick,n ,  fast one
+hook,v ,  fasten with a hook
+lock,v ,  fasten with a lock
+link,n ,  fastener
+lock,n ,  fastener fitted to a door
+screw,n ,  fastener with a tapered threaded shank
+knot,n ,  fastening formed by looping and tying
+cream,n ,  fat part of milk
+tired,a ,  fatigued
+blame,v ,  fault put the blame on
+prefer,v ,  favor
+progressive,a ,  favoring or promoting progress
+bold,a ,  fearless and daring
+banquet,n ,  feast
+agent,n ,  federal agent
+commission,n ,  fee
+toll,n ,  fee for the use of roads or bridges
+care,v ,  feel concern or interest
+freeze,v ,  feel or be cold
+miss,v ,  feel or suffer from the lack of
+desire,n ,  feeling
+unrest,n ,  feeling of agitation
+concern,n ,  feeling of sympathy
+confidence,n ,  feeling of trust
+proud,a ,  feeling self-respect
+cat,n ,  feline
+hen,n ,  female chicken
+girl,n ,  female child
+bitch,n ,  female dog
+queen,n ,  female monarch
+mother,n ,  female parent
+iron,n ,  ferrous metal
+ferry,n ,  ferryboat
+conception,n ,  fertilization
+celebration,n ,  festivity
+party,n ,  festivity
+fibre,n ,  fiber
+character,n ,  fictional character
+novel,n ,  fictional work
+heart,n ,  figure with rounded sides curving inward at the top
+stuff,v ,  fill tightly
+movie,n ,  film
+producer,n ,  film or play producer
+final,n ,  final examination
+treasurer,n ,  financial officer
+statement,n ,  financial statement
+convict,v ,  find guilty
+clay,n ,  fine-grained soil
+powder,n ,  fine-grained substance
+sand,n ,  finely ground particles
+thumb,n ,  finger
+fastidious,a ,  finicky
+fireplace,n ,  fire
+shoot,v ,  fire a shot
+rifle,n ,  firearm
+firefighter,n ,  fireman
+strong,a ,  firm
+cousin,n ,  first cousin
+initial,n ,  first letter of a word
+beginning,n ,  first part or section of something
+introduction,n ,  first section of a communication
+initiative,n ,  first step
+freshman,n ,  first year student
+financial,a ,  fiscal
+salmon,n ,  fish
+fisherman,n ,  fisher
+healthy,a ,  fit
+fee,n ,  fixed charge
+interest,n ,  fixed charge for borrowing money
+fire,n ,  flame
+base,n ,  flat bottom on which something sits
+tile,n ,  flat thin slab
+flat,n ,  flat tire
+meat,n ,  flesh of animals
+fish,n ,  flesh of fish used as food
+lip,n ,  fleshy folds of tissue surrounding the mouth
+steward,n ,  flight attendant
+flight,n ,  flight of stairs
+deck,n ,  floor on a ship
+floor,n ,  flooring
+dough,n ,  flour mixture
+spill,v ,  flow out
+lily,n ,  flower
+rose,n ,  flower
+pot,n ,  flowerpot
+variation,n ,  fluctuation
+chimney,n ,  flue
+soar,v ,  fly upwards
+conventional,a ,  following accepted customs
+second,n ,  following the first
+cheese,n ,  food
+salad,n ,  food mixture
+reckless,a ,  foolhardy
+football,n ,  football game
+trace,n ,  footprint
+marathon,n ,  footrace of 26 miles
+boot,n ,  footwear
+sandal,n ,  footwear
+shoe,n ,  footwear
+offensive,a ,  for the purpose of attack
+patience,n ,  forbearance
+camp,n ,  forced labor prison
+index finger,n ,  forefinger
+deer,n ,  forest animal
+organize,v ,  form
+tie,v ,  form a knot or bow in
+spin,v ,  form a web
+match,n ,  formal contest
+ball,n ,  formal dance
+association,n ,  formal organization of people
+reception,n ,  formal party
+line,n ,  formation of people or things one behind another
+rule,n ,  formula standard procedure for solving a mathematical problem
+castle,n ,  fortified building
+coal,n ,  fossil fuel
+spring,n ,  fountain
+break,n ,  fracture
+wheel,n ,  frame with spokes
+model,n ,  framework
+rack,n ,  framework for holding objects
+hotdog,n ,  frankfurter
+monster,n ,  freak
+relieve,v ,  free from a burden or distress
+clear,a ,  free from clouds or mist or haze
+straight,a ,  free from curves or angles
+safe,a ,  free from danger
+clean,a ,  free from dirt
+rescue,v ,  free from harm or evil
+dry,a ,  free from liquid or moisture
+pure,a ,  free of extraneous elements of any kind
+liberty,n ,  freedom
+refrigerator,n ,  fridge
+ally,n ,  friend
+warm,a ,  friendly and responsive
+ally,n ,  friendly nation
+terrify,v ,  frighten greatly
+medieval,a ,  from the Middle Ages
+ice cream,n ,  frozen dessert
+ice,n ,  frozen water
+cherry,n ,  fruit
+fig,n ,  fruit
+lemon,n ,  fruit
+strawberry,n ,  fruit
+smoke,n ,  fumes
+official,n ,  functionary
+constitution,n ,  fundamental law
+mushroom,n ,  fungus
+desk,n ,  furniture
+seat,n ,  furniture designed for sitting on
+lamp,n ,  furniture holding lightbulbs
+profit,n ,  gain
+net,n ,  game equipment
+score,n ,  game score
+board,n ,  gameboard
+coat,n ,  garment
+shirt,n ,  garment
+skirt,n ,  garment
+top,n ,  garment that extends from the shoulders to the waist or hips
+homosexual,a ,  gay
+gear,n ,  gear mechanism
+jelly,n ,  gelatinous substance
+diamond,n ,  gem
+sale,n ,  general activity of selling
+category,n ,  general concept
+health,n ,  general condition of body and mind
+productive,a ,  generative
+mutation,n ,  genetic mutation
+genetic,a ,  genetical
+exploration,n ,  geographic expedition
+zone,n ,  geographical region
+circle,n ,  geometric figure
+sign,n ,  gesture that is part of a sign language
+age,v ,  get older
+board,v ,  get on
+abolish,v ,  get rid of
+master,v ,  get the hang of
+meet,v ,  get to know
+ghostwriter,n ,  ghost
+charity,n ,  gift
+present,n ,  gift
+talented,a ,  gifted
+bless,v ,  give a benediction to
+define,v ,  give a definition for
+perform,v ,  give a performance
+pay,v ,  give money in exchange for goods or services
+thank,v ,  give thanks
+resignation,n ,  giving notice
+secretion,n ,  glandular substance
+marble,n ,  glass ball for games
+glare,v ,  glower
+return,v ,  go back
+follow,v ,  go behind
+retire,v ,  go into retirement
+accompany,v ,  go or come with
+fail,v ,  go wrong
+end,n ,  goal
+departure,n ,  going away
+golf,n ,  golf game
+peanut,n ,  goober
+charm,n ,  good luck charm
+character,n ,  good repute
+bloodshed,n ,  gore
+overeat,v ,  gorge
+extort,v ,  gouge
+rule,v ,  govern
+ministry,n ,  government department
+minister,n ,  government minister
+step,n ,  gradation
+gradient,n ,  grade of a slope
+drift,n ,  gradual departure from a course
+rice,n ,  grains used as food
+grandmother,n ,  grandma
+hay,n ,  grass mowed and cured
+tip,n ,  gratuity
+major,a ,  greater in scope or effect
+high,a ,  greater than normal in degree or intensity or amount
+grudge,n ,  grievance
+mill,n ,  grinder
+monstrous,a ,  grotesque
+army,n ,  ground forces
+yard,n ,  grounds
+flock,n ,  group of animals
+herd,n ,  group of cattle
+pack,n ,  group of hunting animals
+organisation,n ,  group of people who work together
+fleet,n ,  group of ships
+troop,n ,  group of soldiers
+set,n ,  group of things of the same kind that belong together
+adult,n ,  grownup
+direct,v ,  guide actors
+guide,n ,  guidebook
+guilt,n ,  guiltiness
+subject,n ,  guinea pig
+barrel,n ,  gun barrel
+water,n ,  H2O
+haircut,n ,  hairstyle
+hemisphere,n ,  half of the terrestrial globe
+hall,n ,  hallway
+hammer,n ,  hand tool
+basket,n ,  handbasket
+manual,n ,  handbook
+umbrella,n ,  handheld collapsible canopy
+treat,v ,  handle
+treatment,n ,  handling
+glove,n ,  handwear
+coincidence,n ,  happenstance
+difficult,a ,  hard
+wood,n ,  hard substance under the bark of trees
+nut,n ,  hard-shelled seed
+collar,n ,  harness
+crop,n ,  harvest
+harvest,n ,  harvest time
+weigh,v ,  have a certain weight
+include,v ,  have as a part
+have,v ,  have got
+wear,v ,  have on clothes
+dine,v ,  have supper
+afford,v ,  have the financial means
+brown,a ,  having a brown color
+sour,a ,  having a sharp biting taste
+steep,a ,  having a sharp inclination
+smooth,a ,  having a surface free from roughness
+sharp,a ,  having a thin edge or sharp point
+sensitive,a ,  having acute mental or emotional sensibility
+noble,a ,  having elevated character
+complete,a ,  having every necessary part
+square,a ,  having four equal sides and four right angles
+deep,a ,  having great spatial extension downward
+short,a ,  having little length
+weak,a ,  having little physical or spiritual strength
+infinite,a ,  having no limits or boundaries in time or space
+official,a ,  having official authority
+mature,a ,  having reached full natural growth or development
+meadow,n ,  hayfield
+veil,n ,  head covering
+governor,n ,  head of a state
+cap,n ,  headdress
+hat,n ,  headdress
+helmet,n ,  headgear
+title,n ,  heading
+clearance,n ,  headroom
+therapist,n ,  healer
+listen,v ,  hear
+rumor,n ,  hearsay
+heat,n ,  heating system
+hand,n ,  helping hand
+dome,n ,  hemispherical roof
+catch,n ,  hidden drawback
+retreat,n ,  hideaway
+fever,n ,  high body temperature
+drive,n ,  high motivation
+highlight,n ,  high spot
+extreme,n ,  highest degree
+age,n ,  historic period
+period,n ,  historic period
+beat,v ,  hit repeatedly
+study,v ,  hit the books
+slap,v ,  hit with a flat surface
+punch,v ,  hit with the fist
+pawn,v ,  hock
+custody,n ,  holding by the police
+delay,n ,  holdup
+resort,n ,  holiday resort
+tube,n ,  hollow cylinder
+bubble,n ,  hollow globule of gas
+habitat,n ,  home ground
+return,n ,  homecoming
+housewife,n ,  homemaker
+honor,n ,  honorableness
+addicted,a ,  hooked
+ring,n ,  hoop
+tire,n ,  hoop covering a wheel
+bar,n ,  horizontal rod that serves as a support for gymnasts
+platform,n ,  horizontal surface
+flat,a ,  horizontally level
+ward,n ,  hospital ward
+enemy,n ,  hostile people
+age,n ,  how long something has existed
+husband,n ,  hubby
+color,n ,  hue
+embrace,v ,  hug
+face,n ,  human face
+foot,n ,  human foot
+arm,n ,  human limb
+humanity,n ,  humanness
+comedy,n ,  humorous drama
+hunting,n ,  hunt
+safari,n ,  hunting expedition
+hunter,n ,  huntsman
+cross,n ,  hybrid
+theory,n ,  hypothesis
+preoccupation,n ,  idea that preoccupies the mind
+value,n ,  ideal accepted by some individual or group
+card,n ,  identity card
+identification,n ,  identity papers
+sick,a ,  ill
+projection,n ,  image projection
+exemption,n ,  immunity
+fair,a ,  impartial
+jungle,n ,  impenetrable forest
+temporary,a ,  impermanent
+tool,n ,  implement
+brush,n ,  implement with hairs or bristles
+issue,n ,  important question
+import,n ,  importation
+effect,n ,  impression
+unlikely,a ,  improbable
+reform,v ,  improve by alteration or correction
+tense,a ,  in a state of physical or nervous tension
+regular,a ,  in accordance with fixed order or procedure
+unanimous,a ,  in complete agreement
+sound,a ,  in good condition
+well,a ,  in good health
+central,a ,  in or near a center
+passive,a ,  inactive
+dead,a ,  inanimate
+helpless,a ,  incapacitated
+list,v ,  include in a list
+whole,a ,  including all components
+conflict,n ,  incompatibility of dates or events
+incapable,a ,  incompetent
+increase,n ,  increment
+few,n ,  indefinite but relatively small number
+bay,n ,  indentation of a shoreline
+separate,a ,  independent
+needle,n ,  indicator for readings
+person,n ,  individual
+morale,n ,  individual psychological well-being
+splurge,v ,  indulge oneself
+cheap,a ,  inexpensive
+implicit,a ,  inexplicit
+childish,a ,  infantile
+virus,n ,  infectious agent
+hospital,n ,  infirmary
+determine,v ,  influence
+information,n ,  info
+recording,n ,  information storage device
+violation,n ,  infringement
+consumption,n ,  ingestion
+monk,n ,  inhabitant of a monastery
+smoke,v ,  inhale a plant derivative
+instinct,n ,  inherent aptitude
+first,a ,  initial
+shot,n ,  injection
+burn,n ,  injury
+inquiry,n ,  inquest
+ask,v ,  inquire
+dedicate,v ,  inscribe or address by way of compliment
+bee,n ,  insect
+cricket,n ,  insect
+fly,n ,  insect
+indoor,a ,  inside
+exception,n ,  instance that does not conform to a rule
+college,n ,  institution of higher education
+charity,n ,  institution set up to provide help for the needy
+foundation,n ,  institution supported by an endowment
+teach,v ,  instruct
+teacher,n ,  instructor
+band,n ,  instrumentalists
+means,n ,  instrumentality for accomplishing some end
+abuse,n ,  insult
+coverage,n ,  insurance coverage
+policy,n ,  insurance policy
+premium,n ,  insurance premium
+guerrilla,n ,  insurgent
+concern,n ,  interest
+intervention,n ,  interference
+inside,n ,  interior
+bow,n ,  interlaced ribbons
+present,a ,  intermediate between past and future
+middle,n ,  intermediate part or section
+medium,n ,  intermediate state
+translate,v ,  interpret in another language
+read,v ,  interpret something that is written or printed
+version,n ,  interpretation from a certain viewpoint
+question,v ,  interrogate
+period,n ,  interval taken to complete one cycle
+fascinate,v ,  intrigue
+feeling,n ,  intuitive feeling
+flood,n ,  inundation
+innovation,n ,  invention
+stock,n ,  inventory
+speculate,v ,  invest at a risk
+investment,n ,  investment funds
+guest,n ,  invitee
+host,n ,  inviter
+physical,a ,  involving the body
+anger,n ,  ire
+publication,n ,  issue
+dish,n ,  item of prepared food
+loop,n ,  iteration
+cell,n ,  jail cell
+twitch,v ,  jerk
+voyage,n ,  journey to some distant place
+judgment,n ,  judicial decision
+litigation,n ,  judicial proceeding
+scramble,v ,  jumble
+parachute,v ,  jump from an airplane
+law,n ,  jurisprudence
+justice,n ,  justness
+deprive,v ,  keep from having or obtaining
+terminal,n ,  keyboard and monitor
+piano,n ,  keyboard instrument
+child,n ,  kid
+lion,n ,  king of beasts
+affinity,n ,  kinship
+oven,n ,  kitchen appliance
+knee,n ,  knee joint
+stab,v ,  knife
+sweater,n ,  knitted garment
+know,v ,  know how to do or perform something
+education,n ,  knowledge acquired by learning
+experienced,a ,  knowledgeable
+maze,n ,  labyrinth
+ignorance,n ,  lack of knowledge
+weakness,n ,  lack of strength
+failure,n ,  lack of success
+shallow,a ,  lacking depth of intellect or knowledge or feeling
+bald,a ,  lacking hair
+soft,a ,  lacking in hardness
+bare,a ,  lacking its natural or customary covering
+shallow,a ,  lacking physical depth
+girlfriend,n ,  lady friend
+development,n ,  land developed for some purpose
+island,n ,  land mass surrounded by water
+site,n ,  land site
+name,n ,  language unit by which a person or thing is known
+hall,n ,  large building for meetings or entertainment
+cathedral,n ,  large church
+tiger,n ,  large feline
+convention,n ,  large formal assembly
+river,n ,  large natural stream of water
+crowd,n ,  large number of things or people
+stage,n ,  large platform on which people are seen by an audience
+hall,n ,  large room for gatherings or entertainment
+range,n ,  large tract of grassy open land where livestock graze
+pumpkin,n ,  large yellow fruit
+whip,v ,  lash
+whip,n ,  lash used for whipping
+permanent,a ,  lasting
+persistent,a ,  lasting
+tension,n ,  latent hostility
+wash,v ,  launder
+honor,n ,  laurels
+crime,n ,  law-breaking
+grass,n ,  lawn
+leadership,n ,  leading
+blade,n ,  leaf blade
+thin,a ,  lean
+academy,n ,  learned establishment
+leave,v ,  leave behind
+leave,n ,  leave of absence
+leftovers,n ,  leftover food
+action,n ,  legal action
+majority,n ,  legal age
+trustee,n ,  legal guardian
+liability,n ,  legal obligation and responsibility
+jurisdiction,n ,  legal power
+trial,n ,  legal proceedings
+bar,n ,  legal profession
+verdict,n ,  legal verdict
+legislature,n ,  legislative assembly
+house,n ,  legislature
+split,n ,  lengthwise crack
+wound,n ,  lesion
+minor,a ,  lesser in scope or effect
+disappoint,v ,  let down
+drop,v ,  let fall
+disappointment,n ,  letdown
+deadly,a ,  lethal
+letter,n ,  letter of the alphabet
+hover,v ,  levitate
+dictionary,n ,  lexicon
+lie,v ,  lie down
+biography,n ,  life story
+bulb,n ,  light bulb
+pastel,n ,  light pale color
+light,a ,  light-colored
+blonde,a ,  light-haired
+estimate,n ,  likely cost
+branch,n ,  limb
+leg,n ,  limb
+limit,n ,  limitation
+restraint,n ,  limitation
+restriction,n ,  limitation
+line,n ,  line of text
+curve,n ,  line on a graph
+diameter,n ,  line through the center of a circle
+column,n ,  linear array of numbers
+dialogue,n ,  lines spoken in drama or fiction
+language,n ,  linguistic communication
+soup,n ,  liquid food
+eavesdrop,v ,  listen in
+list,n ,  listing
+torch,n ,  lit stick carried in one's hand
+essay,n ,  literary composition
+fiction,n ,  literary work
+small,a ,  little
+alive,a ,  live
+enthusiasm,n ,  lively interest
+resident,a ,  living in a particular place
+social,a ,  living together or enjoying life in communities
+lend,v ,  loan
+engine,n ,  locomotive
+heart,n ,  locus of feelings and intuitions
+log,n ,  logarithm
+implication,n ,  logical implication
+linger,v ,  loiter
+strip,n ,  long narrow piece
+ridge,n ,  long narrow range of hills
+pole,n ,  long rod
+shaft,n ,  long rod or pole
+bench,n ,  long seat
+monkey,n ,  long-tailed primate
+admire,v ,  look up to
+Sunday,n ,  Lord's Day
+misplace,v ,  lose
+sacrifice,n ,  loss
+drawing,n ,  lottery
+chin,n ,  lower jaw
+minimum,n ,  lower limit
+fortune,n ,  luck
+timber,n ,  lumber
+intermediate,a ,  lying between two extremes
+machinery,n ,  machines
+trick,n ,  magic trick
+dimension,n ,  magnitude
+keep,v ,  maintain
+brand,n ,  make
+compromise,v ,  make a compromise
+reproduce,v ,  make a copy
+impress,v ,  make a good impression
+guess,v ,  make a guess
+punch,v ,  make a hole in
+paint,v ,  make a painting
+activate,v ,  make active
+bark,v ,  make barking sounds
+enhance,v ,  make better or more attractive
+weave,v ,  make cloth
+amuse,v ,  make laugh
+obscure,v ,  make less visible
+touch,v ,  make physical contact with
+plan,v ,  make plans
+revise,v ,  make revisions to
+knit,v ,  make textiles by knitting
+reconcile,v ,  make up
+decide,v ,  make up one's mind
+widen,v ,  make wider
+presentation,n ,  making publicly available or known
+king,n ,  male monarch
+father,n ,  male parent
+cancer,n ,  malignant disease
+finance,n ,  management of money
+park,v ,  maneuver a vehicle into a parking space
+exploit,v ,  manipulate to one's advantage
+speech,n ,  manner of speaking
+laborer,n ,  manual laborer
+industry,n ,  manufacture
+chart,n ,  map for navigation
+march,n ,  marching music
+seal,n ,  marine mammal
+whale,n ,  marine mammal
+sign,n ,  mark
+target,n ,  mark
+sign,v ,  mark with one's signature
+wild,a ,  marked by lack of restraint or control
+distributor,n ,  marketing company
+proposal,n ,  marriage proposal
+wonder,n ,  marvel
+communist,n ,  Marxist
+rally,n ,  mass meeting
+glacier,n ,  mass of ice
+domination,n ,  mastery
+chew,v ,  masticate
+concrete,a ,  material
+paper,n ,  material made of cellulose pulp
+plastic,n ,  materials
+function,n ,  mathematical function
+product,n ,  mathematical product obtained by multiplication
+proof,n ,  mathematical proofs
+equation,n ,  mathematical statement
+maximum,a ,  maximal
+buffet,n ,  meal set out on a counter
+beef,n ,  meat
+ham,n ,  meat
+pump,n ,  mechanical device
+dressing,n ,  medical dressing
+clinic,n ,  medical establishment
+medicine,n ,  medical profession
+specimen,n ,  medical specimen
+symptom,n ,  medical symptom
+conference,n ,  meeting
+session,n ,  meeting
+qualified,a ,  meeting the standards and requirements
+director,n ,  member of a board of directors
+partner,n ,  member of a partnership
+citizen,n ,  member of a state
+memorandum,n ,  memo
+learn,v ,  memorize
+crew,n ,  men who man a ship or aircraft
+attitude,n ,  mental attitude
+association,n ,  mental connection
+institution,n ,  mental hospital
+image,n ,  mental image
+breakdown,n ,  mental or physical crack-up
+freighter,n ,  merchant ship
+hypnothize,v ,  mesmerize
+silver,n ,  metal
+steel,n ,  metal alloy
+spring,n ,  metal elastic device
+wire,n ,  metal ligament
+metal,n ,  metallic element
+chip,n ,  microchip
+contact,n ,  middleman
+center,n ,  midpoint
+microphone,n ,  mike
+action,n ,  military action
+bomber,n ,  military aircraft
+campaign,n ,  military campaign
+occupation,n ,  military control
+operation,n ,  military operation
+aware,a ,  mindful
+miner,n ,  mineworker
+minimum,a ,  minimal
+accident,n ,  mishap
+distortion,n ,  misrepresenting
+mixture,n ,  mix
+confusion,n ,  mix-up
+punch,n ,  mixed drink
+cake,n ,  mixture of flour and sugar and eggs
+air,n ,  mixture of gases
+solution,n ,  mixture of two or more substances
+groan,v ,  moan
+mild,a ,  moderate
+qualify,v ,  modify
+routine,n ,  modus operandi
+empire,n ,  monarchy
+kingdom,n ,  monarchy
+abbey,n ,  monastery
+grant,n ,  monetary aid
+fund,n ,  monetary fund
+coin,n ,  money
+currency,n ,  money
+allowance,n ,  money allowed or granted
+credit,n ,  money available for a client to borrow
+change,n ,  money received in return
+memorial,n ,  monument
+virtue,n ,  moral excellence
+ethics,n ,  moral philosophy
+integrity,n ,  moral soundness
+breakfast,n ,  morning meal
+fool,n ,  moron
+theme,n ,  motif
+gesture,n ,  motion of hands or body
+engine,n ,  motor
+volcano,n ,  mountain
+lid,n ,  movable top
+go,v ,  move
+stir,v ,  move an implement with a circular motion
+retreat,v ,  move away
+run,v ,  move fast on one's feet
+dance,v ,  move in a pattern to music
+skate,v ,  move on skates
+glide,v ,  move smoothly and effortlessly
+force,v ,  move something forcibly
+swipe,v ,  move something with a swiping motion
+bounce,v ,  move up and down repeatedly
+rise,v ,  move upward
+swing,v ,  move with a swaying motion
+descent,n ,  movement downward
+migration,n ,  movement from one country to another
+circulation,n ,  movement through a circuit
+mobile,a ,  moving or capable of moving readily
+multimedia,n ,  multimedia system
+contraction,n ,  muscular contraction
+composer,n ,  music composer
+orchestra,n ,  musical group
+harmony,n ,  musical harmony
+instrument,n ,  musical instrument
+concert,n ,  musical performance
+common,a ,  mutual
+exchange,n ,  mutual expression of views
+dragon,n ,  mythical creature
+sodium,n ,  Na
+call,v ,  name
+identify,v ,  name
+nomination,n ,  naming a candidate
+lane,n ,  narrow road
+narrow,a ,  narrow-minded
+congress,n ,  national legislative assembly
+affinity,n ,  natural attraction
+hair,n ,  natural body covering
+tongue,n ,  natural language
+nature,n ,  natural physical world including plants and animals
+law,n ,  natural scientific law
+sickness,n ,  nausea
+navy,n ,  naval forces
+close,a ,  near
+tie,n ,  necktie
+thirsty,a ,  needing or desiring to drink
+negligence,n ,  neglect
+solid,a ,  neither liquid nor gaseous
+cool,a ,  neither warm or very cold in temperature
+nervous,a ,  neural
+news,n ,  new information
+paper,n ,  newspaper
+headline,n ,  newspaper headline
+press,n ,  newspaper writers
+retired,a ,  no longer active in your work
+lost,a ,  no longer in your possession or control
+duke,n ,  nobleman
+owl,n ,  nocturnal bird
+bat,n ,  nocturnal mouselike mammal
+soft,a ,  nonalcoholic
+article,n ,  nonfictional prose forming an independent part of a publication
+civilian,n ,  nonmilitary citizen
+objective,a ,  nonsubjective
+average,n ,  norm
+role,n ,  normal or customary activity of a person
+census,n ,  nose count
+relative,a ,  not absolute
+indirect,a ,  not direct in manner or language
+ordinary,a ,  not exceptional
+genuine,a ,  not fake or counterfeit
+unfortunate,a ,  not favored by fortune
+tough,a ,  not given to gentleness or sentimentality
+dull,a ,  not having a sharp edge or point
+FALSE,a ,  not in accordance with fact or reality
+slow,a ,  not moving quickly
+free,a ,  not occupied
+modest,a ,  not offensive to sexual mores
+public,a ,  not private
+integrated,a ,  not segregated
+inappropriate,a ,  not suitable
+other,a ,  not the same
+raw,a ,  not treated with heat
+narrow,a ,  not wide spatially
+hard,a ,  not yielding to pressure
+notebook,n ,  notebook computer
+reputation,n ,  notoriety for some characteristic
+present,n ,  nowadays
+harmful,a ,  noxious
+reactor,n ,  nuclear reactor
+chain,n ,  number of similar establishments
+record,n ,  number of wins versus losses and ties
+number,n ,  numeral
+value,n ,  numerical quantity measured or assigned or computed
+foster,v ,  nurture
+food,n ,  nutrient
+oak,n ,  oak tree
+fixture,n ,  object firmly fixed in place
+ball,n ,  object that is hit or thrown or kicked in games
+stubborn,a ,  obstinate
+reserve,v ,  obtain or arrange in advance
+borrow,v ,  obtain temporarily
+available,a ,  obtainable
+head,n ,  obverse side of a tail
+resident,n ,  occupant
+profession,n ,  occupation
+seasonal,a ,  occurring at a particular season
+seasonal,a ,  occurring at or dependent on a particular season
+sea,n ,  ocean
+thick,a ,  of a specific thickness
+primary,a ,  of first rank or importance or value
+major,a ,  of full legal age
+heavy,a ,  of great physical weight
+long,a ,  of great spatial extension
+superior,a ,  of high or superior quality
+short,a ,  of limited duration
+light,a ,  of little weight
+neutral,a ,  of no distinctive quality
+oral,a ,  of or involving the mouth
+long,a ,  of relatively great duration
+diplomat,n ,  official engaged in international negotiations
+twin,n ,  offspring born at the same time
+senior,a ,  older or higher in rank
+nose,n ,  olfactory organ
+bear,n ,  omnivorous mammal
+leg,n ,  one of the supports for a piece of furniture
+page,n ,  one side of one leaf
+critic,n ,  one who offers opinions on art
+survivor,n ,  one who outlives another
+trainer,n ,  one who trains persons or animals
+linear,a ,  one-dimensional
+quarter,n ,  one-fourth
+tray,n ,  open receptacle
+open,v ,  open up
+key,n ,  opening device
+window,n ,  opening in the wall of a building
+hole,n ,  opening into or through something
+surgeon,n ,  operating surgeon
+automatic,a ,  operating with minimal human intervention
+aviation,n ,  operation of aircraft
+driver,n ,  operator of a motor vehicle
+view,n ,  opinion
+poll,n ,  opinion poll
+chance,n ,  opportunity
+contrast,n ,  opposition or dissimilarity
+distortion,n ,  optical aberration
+mouth,n ,  oral cavity
+satellite,n ,  orbiter
+agenda,n ,  order of business
+order,n ,  orderliness
+liver,n ,  organ
+donor,n ,  organ donor
+shell,n ,  outer layer of nuts or fruits
+printer,n ,  output device that prints data
+scandal,n ,  outrage
+overwhelm,v ,  overpower
+exaggerate,v ,  overstate
+open,a ,  overt
+revolution,n ,  overthrow of government
+obese,a ,  overweight
+due,a ,  owed
+possession,n ,  ownership
+rate,n ,  pace
+elephant,n ,  pachyderm
+bucket,n ,  pail
+shame,n ,  painful emotion
+palm,n ,  palm tree
+tract,n ,  pamphlet
+trouser,n ,  pants
+lot,n ,  parcel of land having fixed boundaries
+uncle,n ,  parent's brother
+parking,n ,  parking space
+blade,n ,  part of a knife
+drawer,n ,  part of a piece of furniture
+member,n ,  part of a social group
+root,n ,  part of plant
+shoulder,n ,  part of the body
+colon,n ,  part of the large intestine
+thigh,n ,  part of the leg
+jaw,n ,  part of the skull
+player,n ,  participant
+bride,n ,  participant in a marriage ceremony
+play,v ,  participate in games or sport
+perforate,v ,  pass in or through
+faint,v ,  pass out
+swallow,v ,  pass through the esophagus
+aisle,n ,  passage between seats or supermarket shelves
+passage,n ,  passageway
+tunnel,n ,  passageway
+heat,n ,  passion
+love,n ,  passion
+graze,v ,  pasture
+patent,n ,  patent of invention
+terrace,n ,  patio
+nationalist,n ,  patriot
+syndrome,n ,  pattern of symptoms
+hesitate,v ,  pause or hold back in uncertainty or unwillingness
+charge,v ,  pay with a credit card
+pension,n ,  payment during retirement
+royalty,n ,  payment for a patent or copyright
+rent,n ,  payment to a landlord
+ring,v ,  peal
+traffic,n ,  pedestrians or vehicles
+glance,v ,  peek
+punish,v ,  penalize
+retiree,n ,  pensioner
+race,n ,  people belonging to the same genetic stock
+population,n ,  people who inhabit a territory
+see,v ,  perceive by sight
+smell,v ,  perceive by the olfactory sense
+taste,v ,  perceive by the sense of taste
+hear,v ,  perceive sound
+recognize,v ,  perceive to be the same
+percent,n ,  percentage
+absolute,a ,  perfect or complete
+benefit,n ,  performance to raise money for a charitable cause
+performer,n ,  performing artist
+risk,n ,  peril
+century,n ,  period of 100 years
+magazine,n ,  periodic publication
+journal,n ,  periodical
+review,n ,  periodical
+cycle,n ,  periodically repeated sequence
+die,v ,  perish
+pass,n ,  permission to enter or do something
+vertical,a ,  perpendicular
+persist,v ,  persevere
+porter,n ,  person employed to carry luggage and supplies
+rider,n ,  person riding an animal
+ward,n ,  person under protection or custody
+conductor,n ,  person who collects fares
+vegetarian,n ,  person who eats no meat
+virgin,n ,  person who has never had sex
+connection,n ,  person who is influential
+slave,n ,  person who is owned
+bomber,n ,  person who plants bombs
+representative,n ,  person who represents others
+patient,n ,  person who requires medical care
+witness,n ,  person who testifies in court
+consumer,n ,  person who uses goods or services
+worker,n ,  person who works at a specific occupation
+hero,n ,  person with exceptional courage
+radical,n ,  person with radical ideas
+name,n ,  person's reputation
+personality,n ,  personal attributes
+staff,n ,  personnel
+cabinet,n ,  persons appointed by a head of state
+authority,n ,  persons who exercise administrative control
+sweat,n ,  perspiration
+basic,a ,  pertaining to a base or basis
+operational,a ,  pertaining to a process
+dramatic,a ,  pertaining to theater
+request,n ,  petition
+photograph,n ,  photo
+camera,n ,  photographic camera
+film,n ,  photographic film
+look,n ,  physical appearance
+assault,n ,  physical attack
+human body,n ,  physical body
+attraction,n ,  physical force
+size,n ,  physical magnitude
+pain,n ,  physical pain
+shelter,n ,  physical protection
+physics,n ,  physical science
+cold,a ,  physically cold
+broken,a ,  physically separated into pieces
+prescription,n ,  physician's instructions
+collect,v ,  pick up
+photography,n ,  picture taking
+chalk,n ,  piece of chalk
+patch,n ,  piece of cloth
+bed,n ,  piece of furniture
+furniture,n ,  piece of furniture
+table,n ,  piece of furniture
+field,n ,  piece of land
+mechanism,n ,  piece of machinery
+sheet,n ,  piece of paper
+stick,n ,  piece of wood
+stereotype,v ,  pigeonhole
+mole,n ,  pigmented spot on the skin
+squeeze,v ,  pinch
+dismissal,n ,  pink slip
+organ,n ,  pipe organ
+arena,n ,  place for spectacles
+bury,v ,  place in the ground as for hiding
+insert,v ,  place inside
+mosque,n ,  place of worship
+temple,n ,  place of worship
+load,v ,  place on a surface or a conveyance
+sow,v ,  place seeds into the ground
+address,n ,  place where a person or organization can be found
+arrangement,n ,  placement
+plot,v ,  plan secretly
+star,n ,  plane figure with 5 or more points
+Venus,n ,  planet evening star morning star
+meeting,n ,  planned coming together
+biology,n ,  plant and animal life
+bulb,n ,  plant bulb
+flower,n ,  plant cultivated for its blooms or blossoms
+houseplant,n ,  plant for indoor use
+fossil,n ,  plant or animal remains
+weed,n ,  plant that crowds out cultivated plants
+sculpture,n ,  plastic art
+credit card,n ,  plastic money
+panel,n ,  plate or sheet that is a component of something
+play,v ,  play on an instrument
+move,n ,  player's turn to move a piece or act
+card,n ,  playing card
+king,n ,  playing card
+heart,n ,  playing card in the major suit of hearts
+club,n ,  playing card in the minor suit of clubs
+pen,n ,  playpen
+slide,n ,  plaything
+swing,n ,  plaything
+toy,n ,  plaything
+fragrant,a ,  pleasant-smelling
+attractive,a ,  pleasing to the eye or mind
+abundant,a ,  plentiful
+bed,n ,  plot of ground in which plants are growing
+shower,n ,  plumbing fixture
+sink,n ,  plumbing fixture
+looting,n ,  plundering
+dive,v ,  plunge into water
+concession,n ,  point conceded
+location,n ,  point in space
+extent,n ,  point or degree to which something extend
+direct,v ,  point somebody into a certain direction
+corner,n ,  point where three areas or surfaces meet
+poison,n ,  poisonous substance
+campaign,n ,  political campaign
+party,n ,  political party
+opposition,n ,  political party opposed
+ideology,n ,  political theory
+colony,n ,  politically controlled country
+pyramid,n ,  polyhedron
+pop,n ,  pop music
+bacon,n ,  pork
+dose,n ,  portion of medicine
+model,n ,  poser for a photographer or painter or sculptor
+easy,a ,  posing no difficulty
+side,n ,  position
+lead,n ,  position of leadership
+charismatic,a ,  possessing a magnetic personality
+beautiful,a ,  possessing beauty
+rich,a ,  possessing material wealth
+acquisition,n ,  possession
+possibility,n ,  possible action
+station,n ,  post
+stamp,n ,  postage stamp
+card,n ,  postcard
+tail,n ,  posterior part of the body of a vertebrate
+strong,a ,  potent
+possible,a ,  potential
+potential,n ,  potentiality
+pocket,n ,  pouch inside a garment
+flour,n ,  powdery foodstuff
+influence,n ,  power to affect persons or events
+blow,n ,  powerful stroke
+application,n ,  practical application
+realism,n ,  pragmatism
+priority,n ,  precedence
+exact,a ,  precise
+precision,n ,  preciseness
+predator,n ,  predatory animal
+horoscope,n ,  prediction of the future
+racism,n ,  prejudice
+chauvinist,n ,  prejudiced person
+bake,v ,  prepare with dry heat
+ready,a ,  prepared
+prescription,n ,  prescription drug
+gift,n ,  present
+production,n ,  presentation for the stage or screen or radio or TV
+jam,n ,  preserve
+keep,v ,  preserve
+administration,n ,  presidency
+presidency,n ,  presidentship
+push,v ,  press
+lobby,n ,  pressure group
+pressure,n ,  pressure sensation
+glory,n ,  prestige
+prestige,n ,  prestigiousness
+mainstream,n ,  prevailing thought
+lie,n ,  prevarication
+quotation,n ,  price quotation
+primary,n ,  primary election
+chimpanzee,n ,  primate
+crude,a ,  primitive
+form,n ,  printed document with spaces in which to write
+publication,n ,  printed work
+press,n ,  printing press
+hostage,n ,  prisoner held for ransom
+award,n ,  prize
+chance,n ,  probability
+investigation,n ,  probe
+process,n ,  procedure
+gradual,a ,  proceeding in small stages
+perception,n ,  process of perceiving
+march,n ,  procession of people
+manufacturer,n ,  producer
+warm,a ,  producing a comfortable degree of heat
+culture,n ,  product of cultivating micro-organisms
+professor,n ,  prof
+uniform,n ,  professional clothing
+professional,n ,  professional person
+chair,n ,  professorship
+technique,n ,  proficiency
+forecast,n ,  prognosis
+throw,v ,  project through the air
+arrow,n ,  projectile
+prediction,n ,  projection
+tooth,n ,  projection on a gear
+pledge,v ,  promise solemnly
+marketing,n ,  promoting and selling
+fair,n ,  promotional gathering of producers
+row,v ,  propel with oars
+distance,n ,  property created by the space between two objects or points
+strength,n ,  property of being physically or mentally strong
+pitch,n ,  property of sound
+advocate,n ,  proponent
+quota,n ,  proportional share
+advice,n ,  proposal for an appropriate course of action
+proposal,n ,  proposition
+suggestion,n ,  proposition
+owner,n ,  proprietor someone who owns a business
+secure,a ,  protected
+protection,n ,  protecting someone or something
+screen,n ,  protective covering
+shield,n ,  protective covering
+demonstrator,n ,  protester
+pride,n ,  proud feeling
+entertain,v ,  provide entertainment
+cover,v ,  provide with a covering
+feed,v ,  provide with food
+state,n ,  province
+soul,n ,  psyche
+analysis,n ,  psychoanalysis
+analyst,n ,  psychoanalyst
+psychology,n ,  psychological science
+demonstration,n ,  public display
+sensation,n ,  public excitement
+show,n ,  public exhibition or entertainment
+forum,n ,  public meeting
+publicity,n ,  public scrutiny
+riot,n ,  public violence
+edition,n ,  publication
+volume,n ,  publication
+promotion,n ,  publicity
+write,v ,  publish
+pool,n ,  puddle
+drag,v ,  pull against a resistance
+bracket,n ,  punctuation mark
+colon,n ,  punctuation mark
+penalty,n ,  punishment
+button,n ,  push button
+install,v ,  put into an office or a position
+plant,v ,  put or set into the ground
+execute,v ,  put to death
+dilemma,n ,  quandary
+number,n ,  quantity
+prey,n ,  quarry hunted animal
+problem,n ,  question
+challenge,n ,  questioning a statement
+quiet,a ,  quiescent
+silence,n ,  quiet
+fraction,n ,  quotient
+proportion,n ,  quotient of magnitude of a part and magnitude of the whole
+radiation sickness,n ,  radiation syndrome
+decay,n ,  radioactive decay
+radiation,n ,  radioactivity
+train,n ,  railroad train
+shower,n ,  rain shower
+rain,n ,  rainfall
+object,v ,  raise an objection
+pump,v ,  raise fluid with a pump
+square,v ,  raise to the second power
+band,n ,  range of frequencies between two limits
+ecstasy,n ,  rapture
+reason,n ,  rationality
+response,n ,  reaction
+world,n ,  reality
+reality,n ,  realness
+graduate,v ,  receive an academic degree
+beneficiary,n ,  recipient
+mutual,a ,  reciprocal
+negative,a ,  reckoned in a direction opposite to positive
+credit,n ,  recognition
+appreciate,v ,  recognize with gratitude
+referral,n ,  recommendation to consult someone
+album,n ,  record album
+document,v ,  record in detail
+film,v ,  record on film
+square,n ,  rectangle with four equal sides
+matrix,n ,  rectangular array
+correction,n ,  rectification
+red,n ,  redness
+cut,n ,  reduction of amount or number
+polish,v ,  refine
+sugar,n ,  refined sugar
+mirror,n ,  reflector
+camp,n ,  refugee camp
+deny,v ,  refuse to grant
+deny,v ,  refuse to let have
+rule,n ,  regulation
+continental,a ,  relating to a continent
+national,a ,  relating to a nation or country
+presidential,a ,  relating to a president or presidency
+constitutional,a ,  relating to a/the constitution
+imperial,a ,  relating to an empire
+cultural,a ,  relating to arts
+economic,a ,  relating to economics
+magnetic,a ,  relating to magnetism
+moral,a ,  relating to principles of right and wrong
+environmental,a ,  relating to the external surroundings
+domestic,a ,  relating to the home
+ratio,n ,  relative magnitude
+soft,a ,  relatively low in volume
+relevance,n ,  relevancy
+comment,n ,  remark
+commemorate,v ,  remember
+shave,v ,  remove body hair
+lease,n ,  rental lease
+tenant,n ,  renter
+meal,n ,  repast
+repetition,n ,  repeat
+draw,v ,  represent by making a drawing of
+defend,v ,  represent in a court of law
+map,n ,  representation of the earth's surface
+agent,n ,  representative who acts on behalf of others
+print,v ,  reproduce by printing
+reptile,n ,  reptilian
+order,n ,  request for food or refreshment
+demand,v ,  request urgently and forcefully
+need,v ,  require
+manual,a ,  requiring human effort
+palace,n ,  residence of a sovereign
+ash,n ,  residue from a fire
+opposition,n ,  resistance
+immune,a ,  resistant
+conservative,a ,  resistant to change
+stable,a ,  resistant to change
+tolerant,a ,  respecting others
+pneumonia,n ,  respiratory disease
+lung,n ,  respiratory organ
+feedback,n ,  response
+reaction,n ,  response revealing a person's feelings or attitude
+fault,n ,  responsibility for a bad situation
+kneel,v ,  rest one's weight on one's knees
+brake,n ,  restraint used to stop a vehicle
+revive,v ,  resuscitate
+retailer,n ,  retail merchant
+revenge,n ,  retaliation
+wealth,n ,  riches
+lift,n ,  ride in a car
+jockey,n ,  rider
+passenger,n ,  rider
+wave,n ,  ridge moving across the surface of a liquid
+right wing,n ,  right
+entitlement,n ,  right granted by law or contract
+right,n ,  right hand side
+copyright,n ,  right of publication
+option,n ,  right to buy or sell property
+access,n ,  right to obtain or make use of
+right,n ,  rightfulness
+bar,n ,  rigid piece of metal or wood
+fruit,n ,  ripened reproductive body of a seed plant
+rear,v ,  rise up
+promotion,n ,  rising in rank
+inflation,n ,  rising prices
+venture,n ,  risky commercial undertaking
+ritual,n ,  rite
+sacrifice,n ,  ritual killing
+gown,n ,  robe for ceremonial occasions
+marble,n ,  rock
+stone,n ,  rock
+rock,n ,  rock 'n' roll
+staff,n ,  rod
+mouse,n ,  rodent
+rat,n ,  rodent
+model,n ,  role model
+kitchen,n ,  room equipped for preparing meals
+study,n ,  room used for reading and writing and studying
+suite,n ,  rooms
+rotation,n ,  rotary motion
+button,n ,  round fastener for clothes
+hand,n ,  round of applause
+loop,n ,  round or oval shape
+court,n ,  royal court
+brush,v ,  rub with a brush
+rugby,n ,  rugby football
+finished,a ,  ruined
+ruin,n ,  ruined building
+flow,v ,  run
+country,n ,  rural area
+countryside,n ,  rural regions
+pitch,n ,  sales pitch
+greeting,n ,  salutation
+moon,n ,  satellite of the Earth
+stroll,v ,  saunter
+spare,v ,  save from an unpleasant experience
+pray,v ,  say a prayer
+dictate,v ,  say out loud for the purpose of recording
+strikebreaker,n ,  scab
+spray,v ,  scatter
+landscape,n ,  scenery
+scheme,n ,  schema organization of concepts
+system,n ,  scheme
+paper,n ,  scholarly article
+school,n ,  schoolhouse
+classroom,n ,  schoolroom
+forestry,n ,  science of planting and caring for forests
+science,n ,  scientific discipline
+scratch,v ,  scrape
+scratch,v ,  scrape or rub to relieve itching
+bronze,n ,  sculpture made of bronze
+gossip,n ,  scuttlebutt
+harbor,n ,  seaport
+look,v ,  search
+chair,n ,  seat
+place,n ,  seat
+capital,n ,  seat of government
+copy,n ,  secondary representation of an original
+secretary,n ,  secretarial assistant
+passage,n ,  section of text
+patrol,n ,  security detachment
+deposit,n ,  sediment
+visible,a ,  seeable
+seed,n ,  seeded player
+recruit,v ,  seek to employ
+quest,n ,  seeking
+gene,n ,  segment of DNA
+bite,v ,  seize with teeth
+elect,v ,  select by in an election
+pick,v ,  select carefully
+cast,v ,  select for a play or movie
+assertive,a ,  self-assured
+paradox,n ,  self-contradiction
+willpower,n ,  self-control
+spontaneous,a ,  self-generated
+arrogant,a ,  self-important
+export,v ,  sell abroad
+betray,v ,  sell out
+call,v ,  send for
+greet,v ,  send greetings
+perceive,v ,  sense
+humor,n ,  sense of humor
+touch,n ,  sense of touch
+ear,n ,  sense organ
+reasonable,a ,  sensible
+sensitivity,n ,  sensitiveness
+detector,n ,  sensor
+piece,n ,  separate part of a whole
+distant,a ,  separated in space or time
+barrier,n ,  separator obstructing vision or access
+scenario,n ,  sequence of possible events
+sequence,n ,  serial arrangement
+action,n ,  series of events that form a plot
+chain,n ,  series of rings or links
+degree,n ,  seriousness of something
+snake,n ,  serpent
+waiter,n ,  server
+established,a ,  set up or accepted
+scene,n ,  setting
+background,n ,  setting context
+stitch,n ,  sewing
+faithful,a ,  sexually trustworthy
+shadow,n ,  shade
+embarrassment,n ,  shame
+cylinder,n ,  shape
+cut,n ,  share of the profits
+stock,n ,  shares
+needle,n ,  sharp pointed implement
+edge,n ,  sharp side formed by the intersection of two surfaces of an object
+bundle,n ,  sheaf
+bleed,v ,  shed blood
+protect,v ,  shield from danger
+connection,n ,  shifting from one transportation to another
+reflect,v ,  shine
+polish,v ,  shine
+horseshoe,n ,  shoe for horses
+beach,n ,  shore
+short circuit,n ,  short
+jacket,n ,  short coat
+shorts,n ,  short pants
+injection,n ,  shot
+strap,n ,  shoulder strap
+explode,v ,  show a violent emotional reaction
+shrink,v ,  shrivel
+shiver,v ,  shudder
+close,v ,  shut
+tail,n ,  side of a coin
+cheek,n ,  side of the face
+temple,n ,  side of the forehead
+profile,n ,  side view
+digress,v ,  sidetrack
+pavement,n ,  sidewalk
+symbol,n ,  sign
+sign,n ,  signal
+sign,n ,  signboard
+important,a ,  significant
+lover,n ,  significant other
+quiet,a ,  silent
+velvet,n ,  silky densely piled fabric
+flatware,n ,  silverware
+plain,a ,  simple
+stool,n ,  simple seat
+model,v ,  simulate
+model,n ,  simulation
+honest,a ,  sincere
+unit,n ,  single undivided whole
+skilled,a ,  skillful
+freckle,n ,  skin pigment
+nervous,a ,  skittish
+horizon,n ,  skyline
+killer,n ,  slayer
+bedroom,n ,  sleeping room
+steak,n ,  slice of meat
+edge,n ,  slight competitive advantage
+slippery,a ,  slippy
+dip,v ,  slope downwards
+bank,n ,  sloping land
+slump,v ,  slouch
+snail,n ,  slug
+sleep,n ,  slumber
+particle,n ,  small body of mass
+berry,n ,  small edible fruit
+seed,n ,  small hard fruit
+grain,n ,  small hard particle
+pony,n ,  small horse
+limited,a ,  small in range or scope
+cup,n ,  small open container used for drinking
+sample,n ,  small part representative of the whole
+scrap,n ,  small piece
+slot,n ,  small slit
+compartment,n ,  small space or subdivision for storage
+mole,n ,  small velvety-furred burrowing mammal
+cabin,n ,  small wooden house
+fine,a ,  small-grained or smooth
+petty,a ,  small-minded
+minority,n ,  smaller in number
+snow,n ,  snowfall
+absorption,n ,  soaking up
+serious,a ,  sober
+gregarious,a ,  sociable
+absorption,n ,  social assimilation
+background,n ,  social heritage
+ant,n ,  social insect
+socialist,a ,  socialistic
+civilization,n ,  society in an advanced state
+fat,n ,  soft greasy substance
+pudding,n ,  soft sweet dessert
+worm,n ,  software program
+appeal,n ,  solicitation
+casualty,n ,  someone injured or killed
+suspect,n ,  someone under suspicion
+guide,n ,  someone who shows the way
+communication,n ,  something communicated between people
+wreck,n ,  something dilapidated
+drift,n ,  something heaped up by wind or water
+loss,n ,  something that is lost
+memory,n ,  something that is remembered
+prince,n ,  son of a sovereign
+noise,n ,  sound
+resource,n ,  source of aid or support
+angle,n ,  space between two lines
+bridge,n ,  span
+save,v ,  spare
+formation,n ,  spatial arrangement
+shout,v ,  speak loudly
+whisper,v ,  speak softly
+privilege,n ,  special advantage
+treat,n ,  special pleasurable occurrence
+accent,n ,  speech pattern
+trance,n ,  spell
+spit,v ,  spew
+sphere,n ,  sphere of influence
+pepper,n ,  spice
+top,n ,  spinning top
+angel,n ,  spiritual being
+medium,n ,  spiritualist
+lost,a ,  spiritually or physically doomed or destroyed
+divorce,v ,  split up
+goal,n ,  sports equipment
+referee,n ,  sports referee
+spring,n ,  springtime
+encourage,v ,  spur on
+crouch,v ,  squat
+crutch,n ,  staff used as walking aid
+set,n ,  stage set
+step,n ,  stair
+staircase,n ,  stairway
+post,n ,  stake
+haunt,v ,  stalk
+seal,n ,  stamp on a document
+stand,v ,  stand up
+norm,n ,  standard
+representative,a ,  standing for something else
+sun,n ,  star that is the source of light and heat
+situation,n ,  state of affairs
+safety,n ,  state of being certain that adverse effects will not be caused
+presence,n ,  state of being present
+relationship,n ,  state of connectedness between people
+balance,n ,  state of equilibrium
+state,n ,  state of matter
+gas,n ,  state of matter distinguished from solid and liquid
+conflict,n ,  state of opposition between persons or ideas
+reliance,n ,  state of relying on something
+isolation,n ,  state of separation
+peace,n ,  state prevailing during the absence of war
+declaration,n ,  statement
+proposition,n ,  statement
+formula,n ,  statement of a fundamental principle
+position,n ,  status
+rank,n ,  status
+wait,v ,  stay in one place and anticipate something
+lodge,v ,  stay temporarily
+glow,n ,  steady even light
+plagiarize,v ,  steal intellectual property
+file,n ,  steel hand tool
+ladder,n ,  steps
+miscarriage,n ,  stillbirth
+shareholder,n ,  stockholder
+plug,v ,  stop up
+shop,n ,  store
+plot,n ,  story
+choke,v ,  strangle
+strategic,a ,  strategical
+banner,n ,  streamer
+concentration,n ,  strength of solution
+struggle,n ,  strenuous effort
+hit,v ,  strike
+tap,v ,  strike lightly
+kick,v ,  strike with the foot
+impact,n ,  striking of one body against another
+stunning,a ,  strikingly beautiful or attractive
+sentence,n ,  string of words
+guitar,n ,  stringed instrument
+ribbon,n ,  strip of material
+conviction,n ,  strong belief
+concrete,n ,  strong building material
+attack,n ,  strong criticism
+emotion,n ,  strong feeling
+vigorous,a ,  strong physically or mentally
+urge,n ,  strong restless desire
+cable,n ,  strong thick rope
+tower,n ,  structure
+nest,n ,  structure in which animals lay eggs
+fight,v ,  struggle
+auditor,n ,  student
+senior,n ,  student
+material,n ,  stuff
+substance,n ,  stuff
+trip,v ,  stumble
+fashionable,a ,  stylish
+act,n ,  subdivision of a play or opera or ballet
+chapter,n ,  subdivision of a written work
+scene,n ,  subdivision of an act of a play
+paragraph,n ,  subdivisions of a text
+soak,v ,  submerge in liquid
+entry,n ,  submission
+reader,n ,  subscriber
+matter,n ,  substance
+conductor,n ,  substance that readily transmits electricity or heat
+drug,n ,  substance used as a medicine or narcotic
+paint,n ,  substance used to protect or decorate
+replace,v ,  substitute for a defective or inadequate one
+solution,n ,  successful action of solving a problem
+goal,n ,  successful attempt at scoring
+brainstorm,n ,  sudden insight
+inspiration,n ,  sudden intuition
+kick,n ,  sudden stimulation
+die,v ,  suffer death
+evoke,v ,  suggest
+indication,n ,  suggestion
+suit,n ,  suit of clothes
+proper,a ,  suitable
+budget,n ,  sum of money allocated
+sum,n ,  sum total
+overview,n ,  summary
+camp,n ,  summer camp
+summer,n ,  summertime
+summit,n ,  summit meeting
+superintendent,n ,  super
+miracle,n ,  supernatural event
+dinner,n ,  supper
+bag,n ,  supple container
+appendix,n ,  supplementary material
+attachment,n ,  supplementary part
+prayer,n ,  supplication
+cater,v ,  supply food ready to eat
+inspire,v ,  supply the inspiration for
+shelf,n ,  support for holding objects
+pier,n ,  support for two adjacent bridge spans
+rest,n ,  support on which things can be put
+certain,a ,  sure
+ceiling,n ,  surface of a room
+operation,n ,  surgery
+excess,n ,  surplus
+resignation,n ,  surrender
+deputy,n ,  surrogate
+survivor,n ,  survivor of a disaster
+defendant,n ,  suspect
+rock,v ,  sway
+date,n ,  sweet edible fruit
+chocolate,n ,  sweet food
+honey,n ,  sweet food
+sweet,a ,  sweet-tasting
+swell,v ,  swell up
+door,n ,  swinging or sliding barrier
+shift,n ,  switch
+interactive,a ,  synergistic
+calendar,n ,  system of timekeeping
+research,n ,  systematic investigation to establish facts
+insist,v ,  take a firm stand
+inject,v ,  take by injection
+adopt,v ,  take in as a child
+eat,v ,  take in solid food
+insure,v ,  take out insurance
+participate,v ,  take part
+musical,a ,  talented in or devoted to music
+conversation,n ,  talk
+discuss,v ,  talk over
+talk,n ,  talking
+tree,n ,  tall perennial woody plant
+tape,n ,  tape measure
+tape,n ,  tape recording
+duty,n ,  tariff
+assignment,n ,  task
+tension,n ,  tautness
+species,n ,  taxonomic group
+panel,n ,  team of experts
+morale,n ,  team spirit
+tear,n ,  teardrop
+rhetoric,n ,  technique for speaking
+extension,n ,  telephone extension
+lie,v ,  tell an untruth
+disposition,n ,  temperament
+shelter,n ,  temporary housing for homeless
+pause,n ,  temporary inactivity
+loan,n ,  temporary provision of money
+trend,n ,  tendency
+critical,a ,  tending to find errors and flaws
+finger,n ,  terminal members of the hand
+abortion,n ,  termination pregnancy
+soil,n ,  territory
+examination,n ,  test
+will,n ,  testament
+leash,n ,  tether
+text,n ,  textual matter
+grateful,a ,  thankful
+history,n ,  the aggregate of past events
+Mars,n ,  the red planet
+front,n ,  the side that is seen or that goes first
+tragedy,n ,  theatrical drama
+film,n ,  thin coating
+slice,n ,  thin flat piece
+mist,n ,  thin fog
+nail,n ,  thin pointed piece of metal
+layer,n ,  thin sheet
+combination,n ,  things occurring together
+idea,n ,  thought
+consideration,n ,  thoughtfulness
+fling,v ,  throw with force or recklessness
+bind,v ,  tie or secure with a rope or cable
+occasion,n ,  time of a particular event
+youth,n ,  time of life between childhood and maturity
+reign,n ,  time of rule
+season,n ,  time of year
+period,n ,  time period
+slot,n ,  time slot
+clock,n ,  timepiece
+can,n ,  tin can
+tiptoe,v ,  tippytoe
+tissue,n ,  tissue paper
+title,n ,  title of respect
+labour,n ,  toil
+liberal,a ,  tolerant of change
+grave,n ,  tomb
+key,n ,  tonality
+tone,n ,  tone of voice
+knife,n ,  tool
+drill,n ,  tool with a sharp point
+dentist,n ,  tooth doctor
+roof,n ,  top of a building
+agony,n ,  torment
+torture,n ,  torturing
+add,v ,  total
+contact,n ,  touch
+ward,n ,  town district
+doll,n ,  toy
+kite,n ,  toy
+puzzle,n ,  toy
+dealer,n ,  trader
+myth,n ,  traditional story
+drill,n ,  training of soldiers to march
+tread,v ,  trample
+broadcast,n ,  transmitted message
+carry,v ,  transport
+haul,v ,  transport
+freight,n ,  transportation
+fare,n ,  transportation fee
+speed,v ,  travel at an excessive or illegal velocity
+drive,v ,  travel by vehicle
+swim,v ,  travel through water
+visit,v ,  travel to
+cross,v ,  traverse
+step,v ,  tread
+rehabilitation,n ,  treatment of physical disabilities
+bark,n ,  tree covering
+log,n ,  tree trunk
+jury,n ,  trial jury
+trial,n ,  tribulation
+triangle,n ,  trilateral
+flight,n ,  trip by plane
+victory,n ,  triumph
+prize,n ,  trophy
+difficulty,n ,  trouble
+problem,n ,  trouble
+company,n ,  troupe
+truth,n ,  true statement
+loyalty,n ,  trueness
+vat,n ,  tub
+pipe,n ,  tube
+rotate,v ,  turn
+profit,v ,  turn a profit
+ivory,n ,  tusk
+channel,n ,  TV channel
+dozen,n ,  twelve
+double,n ,  twice the quantity
+spin,v ,  twist and turn so as to give an intended interpretation
+pair,n ,  two people considered as a unit
+bolt,n ,  type of screw that screws into a nut
+tropical,a ,  typical of the tropics
+color-blind,a ,  unable to distinguish colors
+incredible,a ,  unbelievable
+vague,a ,  undefined
+spy,n ,  undercover agent
+cave,n ,  underground enclosure
+unlike,a ,  unequal
+surprise,n ,  unexpected event
+discrimination,n ,  unfair treatment
+new,a ,  unfamiliar
+continuous,a ,  uninterrupted
+lesson,n ,  unit of instruction
+word,n ,  unit of language
+degree,n ,  unit of temperature
+ton,n ,  unit of weight
+consolidate,v ,  unite into one
+joint,a ,  united or combined
+quarter,n ,  United States coin worth 25 cents
+obscure,a ,  unknown
+single,a ,  unmarried
+volunteer,n ,  unpaid worker
+offensive,a ,  unpleasant or disgusting
+bitch,n ,  unpleasant woman
+live,a ,  unrecorded
+dangerous,a ,  unsafe
+invisible,a ,  unseeable
+blind,a ,  unsighted
+rough,a ,  unsmooth
+crisis,n ,  unstable situation
+wild,a ,  untamed
+frozen,a ,  unthawed
+premature,a ,  untimely
+strange,a ,  unusual
+uniform,a ,  unvarying
+unaware,a ,  unwitting
+folklore,n ,  unwritten literature or songs
+maximum,n ,  upper limit
+hilarious,a ,  uproarious
+nightmare,n ,  upsetting dream
+urge,v ,  urge on
+demand,n ,  urgent or peremptory request
+urgency,n ,  urgent situation calling for prompt action
+sweep,v ,  use a broom
+share,v ,  use jointly or in common
+walk,v ,  use one's feet to advance
+interface,n ,  user interface
+mechanical,a ,  using a mechanism
+useful,a ,  utile
+sigh,v ,  utter a sigh
+threaten,v ,  utter intentions of injury or punishment
+holiday,n ,  vacation
+vacuum,n ,  vacuum cleaner
+valley,n ,  vale
+worth,n ,  value
+disappear,v ,  vanish
+variable,n ,  variable quantity
+broccoli,n ,  vegetable
+spinach,n ,  vegetable
+growth,n ,  vegetation that has grown
+van,n ,  vehicle
+rocket,n ,  vehicle propelled by a rocket engine
+speed,n ,  velocity
+embark,v ,  venture
+promise,n ,  verbal commitment
+application,n ,  verbal or written request for assistance or employment or admission
+poem,n ,  verse form
+weight,n ,  vertical force exerted by a mass
+shaft,n ,  vertical passage into a mine
+bottle,n ,  vessel
+bowl,n ,  vessel
+jar,n ,  vessel
+veteran,n ,  veteran soldier
+winner,n ,  victor
+video,n ,  video recording
+energy,n ,  vigor
+active,a ,  vigorous
+computer virus,n ,  virus
+oil,n ,  viscous liquid
+ghost,n ,  visible disembodied soul
+tourist,n ,  visitor on holiday
+appearance,n ,  visual aspect
+critical,a ,  vital urgently needed
+colorful,a ,  vivid in color
+vision,n ,  vivid mental image
+singer,n ,  vocalist
+soprano,n ,  voice range
+intention,n ,  volition
+will,n ,  volition
+book,n ,  volume
+offer,v ,  volunteer to do
+election,n ,  vote
+ballot,n ,  voting document
+exposure,n ,  vulnerability to the elements
+bet,n ,  wager
+bet,v ,  wager
+waist,n ,  waistline
+queue,n ,  waiting line
+march,v ,  walk
+stride,v ,  walk with long steps
+pedestrian,n ,  walker
+cane,n ,  walking stick
+bird,n ,  warm-blooded egg-laying vertebrate
+guard,n ,  watchman
+spray,n ,  water in small drops
+fog,n ,  water vapor
+acid,n ,  water-soluble compound with sour taste
+stream,n ,  watercourse
+vessel,n ,  watercraft
+method,n ,  way of doing something
+lifestyle,n ,  way of living
+money,n ,  wealth
+capital,n ,  wealth in the form of money or property
+gun,n ,  weapon
+storm,n ,  weather condition
+weather,n ,  weather condition
+cry,v ,  weep
+scale,n ,  weighing machine
+benefit,n ,  welfare
+valid,a ,  well grounded in logic or truth
+familiar,a ,  well known
+clear,a ,  well-defined
+welfare,n ,  wellbeing
+wagon,n ,  wheeled vehicle
+linen,n ,  white goods
+pigeon,n ,  wild and domesticated bird
+winter,n ,  wintertime
+retirement,n ,  withdrawal from a position
+fade,v ,  wither
+black,a ,  without cream or sugar
+direct,a ,  without deviation or interruption
+cold,a ,  without human warmth or emotion
+express,a ,  without unnecessary stops
+feminine,a ,  womanly
+feminist,n ,  women's rightist
+cross,n ,  wooden structure
+sheep,n ,  woolly mammal
+term,n ,  word or expression
+shift,n ,  work shift
+strike,n ,  work stoppage
+duty,n ,  work that you are obliged to perform
+bench,n ,  workbench
+employee,n ,  worker
+job,n ,  workplace
+work,n ,  workplace
+studio,n ,  workplace for teaching or practice of an art
+shop,n ,  workshop
+trouble,n ,  worry
+decline,v ,  worsen
+respectable,a ,  worthy of respect
+spell,v ,  write
+compose,v ,  write music
+pen,n ,  writing implement
+pencil,n ,  writing implement
+script,n ,  writing system
+book,n ,  written work
+offender,n ,  wrongdoer
+annual,a ,  yearly
+old age,n ,  years
+amber,a ,  yellowish
+offspring,n ,  young
+calf,n ,  young cattle
+kid,n ,  young goat
+youth,n ,  young people
+lamb,n ,  young sheep
+junior,a ,  younger or lower in rank
+young,a ,  youthful
